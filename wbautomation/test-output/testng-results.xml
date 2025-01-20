@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-20T10:53:23 IST" name="Default suite" finished-at="2025-01-20T10:53:41 IST" duration-ms="18187">
+    <groups>
+    </groups>
+    <test started-at="2025-01-20T10:53:23 IST" name="Default test" finished-at="2025-01-20T10:53:41 IST" duration-ms="18187">
+      <class name="com.zeroda.Tests.SearchPageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.zeroda.Tests.SearchPageTest@2a798d51]" started-at="2025-01-20T10:53:23 IST" name="setup" finished-at="2025-01-20T10:53:33 IST" duration-ms="10131" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method is-config="true" signature="initiatePages()[pri:0, instance:com.zeroda.Tests.SearchPageTest@2a798d51]" started-at="2025-01-20T10:53:33 IST" name="initiatePages" finished-at="2025-01-20T10:53:33 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiatePages -->
+        <test-method signature="VerifyNoResultTest()[pri:0, instance:com.zeroda.Tests.SearchPageTest@2a798d51]" started-at="2025-01-20T10:53:33 IST" name="VerifyNoResultTest" finished-at="2025-01-20T10:53:41 IST" duration-ms="7907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- VerifyNoResultTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.zeroda.Tests.SearchPageTest@2a798d51]" started-at="2025-01-20T10:53:41 IST" name="teardown" finished-at="2025-01-20T10:53:41 IST" duration-ms="94" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.zeroda.Tests.SearchPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
